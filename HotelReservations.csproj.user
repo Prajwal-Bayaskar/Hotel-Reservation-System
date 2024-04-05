@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddNewEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddRooms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CheckOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CheckOutHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustFeedbacks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Feedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OnlineBookings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewCustBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HelpAndSupport..cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OfflineBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
